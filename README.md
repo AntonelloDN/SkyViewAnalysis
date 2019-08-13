@@ -20,9 +20,43 @@ There is a relation between Sky View Factor and Radiation.
 <li>incoming night-time long-wave radiation is increased</li>
 <li>altered soil heat flux</li>
 </ol>
+<br>Urban Canyon H/W and SVF relation:
+<table style="width:100%">
+  <tr>
+    <th>H/W</th>
+    <th>SVF</th> 
+  </tr>
+  <tr>
+    <td>Rural</td>
+    <td>1.00</td> 
+  </tr>
+  <tr>
+    <td>0.25</td>
+    <td>0.89</td> 
+  </tr>
+  <tr>
+    <td>0.5</td>
+    <td>0.71</td> 
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0.45</td> 
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>0.24</td> 
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>0.16</td> 
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>0.12</td> 
+  </tr>
+</table>
 
-reference:
-https://mau.hypotheses.org/271 (PAR KHARTWELL · 23/05/2017)
+<p>reference: https://mau.hypotheses.org/271 (PAR KHARTWELL · 23/05/2017)</p>
 
 ## Features:
 - Create Sky Exposure Mask
