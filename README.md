@@ -20,7 +20,7 @@ There is a relation between Sky View Factor and Radiation.
 <li>incoming night-time long-wave radiation is increased</li>
 <li>altered soil heat flux</li>
 </ol>
-<br>Urban Canyon H/W and SVF relation:
+<h4>Urban Canyon H/W and SVF relation:</h4>
 <table style="width:100%">
   <tr>
     <th>H/W</th>
