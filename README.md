@@ -1,7 +1,7 @@
 # SkyViewAnalysis
 
 A plugin for Sketchup to calculate Sky Exposure and Sky View Factor.
-
+![Oke svf](https://github.com/AntonelloDN/SkyViewAnalysis/blob/master/example/svf01.jpg)
 ## SVF:
 Sky View Factor (SVFs) represents the ratio at a point in space between the visible sky and a hemisphere centered over the analyzed location (Oke 1981).
 - If SVF of a point is 0 the entire sky is blocked from view by obstacles.
